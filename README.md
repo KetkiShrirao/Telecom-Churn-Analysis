@@ -10,9 +10,9 @@ b.	Geographic
 c.	C. Payment & Account Info
 d.	Services
 
-2.	Study Chuner Profile & Identify Areas for Implementing Marketing Campaigns
+3.	Study Chuner Profile & Identify Areas for Implementing Marketing Campaigns
 
-3.	Identify a Method to Predict Future Churners
+4.	Identify a Method to Predict Future Churners
 
 Metrics Required
 1.	Total Customers
