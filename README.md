@@ -7,7 +7,7 @@ Create an entire ETL process in a database & Power BI dashboard to utilize the C
 1.	Analyze Customer Data at Below Levels
 a.	Demographic
 b.	Geographic
-c.	C. Payment & Account Info
+c.	Payment & Account Info
 d.	Services
 
 3.	Study Chuner Profile & Identify Areas for Implementing Marketing Campaigns
